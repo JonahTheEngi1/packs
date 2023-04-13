@@ -1,0 +1,15 @@
+[
+  {
+    "id": "sevtech_ages",
+    "version": "3.2.3",
+    "name": "SevTech: Ages",
+    "desc": "SevTech: Ages is a massive Minecraft modpack packed with content and progression. This pack focuses on providing the player a long-term progression experience with a purpose. SevTech introduces a number of mechanics never before done such as: hiding ore until unlocked, dynamically hidden items and recipes based on progress, new mobs appear as you progress further and much more!",
+    "creator": "Darkosto (Suggested by Hannok)",
+    "type": "forge",
+    "mcVersion": "1.12.2",
+    "icon": "",
+    "bg-picture": "https://static.wikia.nocookie.net/sevtechages_gamepedia_en/images/5/52/Wiki_bg.jpg/revision/latest",
+    "override": false,
+    "override-options": {}
+  }
+]
